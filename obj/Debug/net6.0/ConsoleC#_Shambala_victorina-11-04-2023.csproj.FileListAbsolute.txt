@@ -1,0 +1,15 @@
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\bin\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.exe
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\bin\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.deps.json
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\bin\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.runtimeconfig.json
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\bin\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.dll
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\bin\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.pdb
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.AssemblyInfoInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.AssemblyInfo.cs
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.dll
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\refint\ConsoleC#_Shambala_victorina-11-04-2023.dll
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.pdb
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ConsoleC#_Shambala_victorina-11-04-2023.genruntimeconfig.cache
+C:\Users\Fishman_1\Documents\GitHub\ConsoleC#_Shambala_victorina-11-04-2023\obj\Debug\net6.0\ref\ConsoleC#_Shambala_victorina-11-04-2023.dll

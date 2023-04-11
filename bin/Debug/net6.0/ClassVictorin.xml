@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVictorina_questions_ansver xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Victorina_questions_ansver>
+    <Questions>
+      <string>нож тупой</string>
+    </Questions>
+    <Ansver>
+      <string>да</string>
+    </Ansver>
+  </Victorina_questions_ansver>
+</ArrayOfVictorina_questions_ansver>
